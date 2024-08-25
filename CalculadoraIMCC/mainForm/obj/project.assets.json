@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "CalculadoraIMC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CalculadoraIMC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculadoraIMC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraIMC/1.0.0": {
+      "type": "project",
+      "path": "../../../../../source/repos/CalculadoraIMCC/mainForm/CalculadoraIMC/CalculadoraIMC.csproj",
+      "msbuildProject": "../../../../../source/repos/CalculadoraIMCC/mainForm/CalculadoraIMC/CalculadoraIMC.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "CalculadoraIMC >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\m.p\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\mainForm\\mainForm.csproj",
+      "projectName": "mainForm",
+      "projectPath": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\mainForm\\mainForm.csproj",
+      "packagesPath": "C:\\Users\\m.p\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\mainForm\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\m.p\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\m.p\\source\\repos\\CalculadoraIMCC\\mainForm\\CalculadoraIMC\\CalculadoraIMC.csproj": {
+              "projectPath": "C:\\Users\\m.p\\source\\repos\\CalculadoraIMCC\\mainForm\\CalculadoraIMC\\CalculadoraIMC.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

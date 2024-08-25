@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mainForm/1.0.0": {
+        "dependencies": {
+          "CalculadoraIMC": "1.0.0"
+        },
+        "runtime": {
+          "mainForm.dll": {}
+        }
+      },
+      "CalculadoraIMC/1.0.0": {
+        "runtime": {
+          "CalculadoraIMC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mainForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculadoraIMC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

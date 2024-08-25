@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BB2FCC-47D6-4C55-B395-B0FE554B1500}|mainForm\\mainForm.csproj|c:\\users\\m.p\\onedrive\\escritorio\\tarea poe\\calculadoraimcc\\mainform\\imccresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BB2FCC-47D6-4C55-B395-B0FE554B1500}|mainForm\\mainForm.csproj|solutionrelative:mainform\\imccresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BB2FCC-47D6-4C55-B395-B0FE554B1500}|mainForm\\mainForm.csproj|c:\\users\\m.p\\onedrive\\escritorio\\tarea poe\\calculadoraimcc\\mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BB2FCC-47D6-4C55-B395-B0FE554B1500}|mainForm\\mainForm.csproj|solutionrelative:mainform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BB2FCC-47D6-4C55-B395-B0FE554B1500}|mainForm\\mainForm.csproj|c:\\users\\m.p\\onedrive\\escritorio\\tarea poe\\calculadoraimcc\\mainform\\imccresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8BB2FCC-47D6-4C55-B395-B0FE554B1500}|mainForm\\mainForm.csproj|solutionrelative:mainform\\imccresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D51DA0-5136-4265-9F26-01CB23E75E34}|..\\..\\..\\..\\source\\repos\\CalculadoraIMCC\\mainForm\\CalculadoraIMC\\CalculadoraIMC.csproj|c:\\users\\m.p\\source\\repos\\calculadoraimcc\\mainform\\calculadoraimc\\calculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BB2FCC-47D6-4C55-B395-B0FE554B1500}|mainForm\\mainForm.csproj|c:\\users\\m.p\\onedrive\\escritorio\\tarea poe\\calculadoraimcc\\mainform\\mainform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8BB2FCC-47D6-4C55-B395-B0FE554B1500}|mainForm\\mainForm.csproj|solutionrelative:mainform\\mainform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mainForm",
+              "DocumentMoniker": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\mainForm\\mainForm.csproj",
+              "RelativeDocumentMoniker": "mainForm\\mainForm.csproj",
+              "ToolTip": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\mainForm\\mainForm.csproj",
+              "RelativeToolTip": "mainForm\\mainForm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T21:49:10.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImccResultForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\mainForm\\ImccResultForm.cs",
+              "RelativeDocumentMoniker": "mainForm\\ImccResultForm.cs",
+              "ToolTip": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\mainForm\\ImccResultForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "mainForm\\ImccResultForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:49:05.428Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainForm.cs",
+              "DocumentMoniker": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\mainForm\\mainForm.cs",
+              "RelativeDocumentMoniker": "mainForm\\mainForm.cs",
+              "ToolTip": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\mainForm\\mainForm.cs",
+              "RelativeToolTip": "mainForm\\mainForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:32:17.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImccResultForm.cs",
+              "DocumentMoniker": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\mainForm\\ImccResultForm.cs",
+              "RelativeDocumentMoniker": "mainForm\\ImccResultForm.cs",
+              "ToolTip": "C:\\Users\\m.p\\OneDrive\\Escritorio\\Tarea POE\\CalculadoraIMCC\\mainForm\\ImccResultForm.cs",
+              "RelativeToolTip": "mainForm\\ImccResultForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:30:54.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculadoraIMC.cs",
+              "DocumentMoniker": "C:\\Users\\m.p\\source\\repos\\CalculadoraIMCC\\mainForm\\CalculadoraIMC\\CalculadoraIMC.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\CalculadoraIMCC\\mainForm\\CalculadoraIMC\\CalculadoraIMC.cs",
+              "ToolTip": "C:\\Users\\m.p\\source\\repos\\CalculadoraIMCC\\mainForm\\CalculadoraIMC\\CalculadoraIMC.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\CalculadoraIMCC\\mainForm\\CalculadoraIMC\\CalculadoraIMC.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:39:33.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\mainForm.exe
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\mainForm.deps.json
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\mainForm.runtimeconfig.json
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\mainForm.dll
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\mainForm.pdb
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\CalculadoraIMC.dll
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\CalculadoraIMC.pdb
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.csproj.AssemblyReference.cache
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.ImccResultForm.resources
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.mainForm.resources
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.csproj.GenerateResource.cache
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.AssemblyInfoInputs.cache
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.AssemblyInfo.cs
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.csproj.CoreCompileInputs.cache
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.csproj.Up2Date
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.dll
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\refint\mainForm.dll
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.pdb
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.genruntimeconfig.cache
+C:\Users\m.p\source\repos\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\ref\mainForm.dll
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.dll
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\refint\mainForm.dll
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.pdb
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\mainForm.exe
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\mainForm.deps.json
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\mainForm.runtimeconfig.json
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\mainForm.dll
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\mainForm.pdb
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\CalculadoraIMC.dll
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\bin\Debug\net8.0-windows\CalculadoraIMC.pdb
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.csproj.AssemblyReference.cache
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.ImccResultForm.resources
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.mainForm.resources
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.csproj.GenerateResource.cache
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.AssemblyInfoInputs.cache
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.AssemblyInfo.cs
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.csproj.CoreCompileInputs.cache
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.csproj.Up2Date
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\mainForm.genruntimeconfig.cache
+C:\Users\m.p\OneDrive\Escritorio\Tarea POE\CalculadoraIMCC\mainForm\obj\Debug\net8.0-windows\ref\mainForm.dll
